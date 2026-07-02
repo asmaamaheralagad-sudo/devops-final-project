@@ -1,0 +1,26 @@
+PING google.com (142.250.75.142) 56(84) bytes of data.
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=1 ttl=1 time=24.8 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=2 ttl=1 time=24.6 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=3 ttl=1 time=33.8 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=4 ttl=1 time=21.8 ms
+
+--- google.com ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3003ms
+rtt min/avg/max/mdev = 21.791/26.270/33.821/4.522 ms
+HTTP/2 200 
+content-type: text/html; charset=ISO-8859-1
+content-security-policy-report-only: object-src 'none';base-uri 'self';script-src 'nonce-8186vjOeZbmpYwcL7t7EcA' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
+accept-ch: Sec-CH-Prefers-Color-Scheme
+p3p: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+date: Thu, 02 Jul 2026 09:03:33 GMT
+server: gws
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+expires: Thu, 02 Jul 2026 09:03:33 GMT
+cache-control: private
+set-cookie: __Secure-STRP=ANmZwa2Vf4ongwC3IaUolmJ9xbS-k7RsuF054zVwOPGJx4wbwExIo5yALMGpE1fEjxMlIDSLyXFSBXS7dz_T2K4It2Aq5knpwbzn; expires=Thu, 02-Jul-2026 09:08:33 GMT; path=/; domain=.google.com; Secure; SameSite=strict
+set-cookie: AEC=AdJVEaugeROKVu9oXyjGP7o7B3bFrWdBqVSZ00B5-JJWjnCNw_mTfoFDGu4; expires=Tue, 29-Dec-2026 09:03:33 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=lax
+set-cookie: NID=532=Syhr7RClpcQz_Vji-Oem6lmqHfnvVOcSdcTtEiLGTnuFRt9aCquVdlyd0wYNksFHRaq-6uGYKodd_VzYIdkSyTzIfqoyJHHoLlUxRZYM82QGUyYR0cqjwWMjZ6v5nhOz2TlI2NUQwXuJacsM8qblbQax5RlzN3pRYT5DuPBTm3tFpVdxY-mF39oy__6PkBDpcFLerR1f6nf34O2I_GnO; expires=Fri, 01-Jan-2027 09:03:33 GMT; path=/; domain=.google.com; HttpOnly
+set-cookie: __Secure-BUCKET=CIgE; expires=Tue, 29-Dec-2026 09:03:33 GMT; path=/; domain=.google.com; Secure; HttpOnly
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
