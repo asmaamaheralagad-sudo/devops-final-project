@@ -18,3 +18,7 @@ We chose `nginx:alpine` because it is very small, fast, and secure, which is a D
 
 2. Run the container:
    docker run -d -p 8080:80 --name my_web_container asmaa/my-webpage:v1.0
+
+
+## GitHub Actions
+This workflow automatically triggers on every push to the main branch to verify code changes using Ubuntu.
